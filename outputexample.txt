@@ -1,0 +1,54 @@
+/Users/isabelkayumetzger/PycharmProjects/n2c2/Medacy Train Output/322-05.ann Trimethoprim
+
+/Users/isabelkayumetzger/PycharmProjects/n2c2/Medacy Train Output/358-04.ann T1	Drug 1751 1762	 
+
+/Users/isabelkayumetzger/PycharmProjects/n2c2/Medacy Train Output/278-05.ann T1	Drug 1872 1892	
+
+/Users/isabelkayumetzger/PycharmProjects/n2c2/Medacy Train Output/201-03.ann T1	Drug 2868 2882	
+
+/Users/isabelkayumetzger/PycharmProjects/n2c2/trainingreformatted/336-01.ann T16	Drug 1282 1290	R	elafen
+
+/Users/isabelkayumetzger/PycharmProjects/n2c2/Medacy Train Output/246-02.ann T1	Drug 652 664	 
+
+/Users/isabelkayumetzger/PycharmProjects/n2c2/Medacy Train Output/374-03.ann T1	Drug 1354 1367	
+
+
+******************** Evaluation n2c2 2022 Track 1 ********************
+************* Contextualized Medication Event Extraction *************
+
+*********************** Medication Extraction ************************
+                      ------- strict -------    ------ lenient -------
+                      Prec.   Rec.    F(b=1)    Prec.   Rec.    F(b=1)
+                Drug  0.6879  0.0389  0.0736    0.7370  0.0416  0.0788
+
+
+************************ Event Classification ************************
+                      ------- strict -------    ------ lenient -------
+                      Prec.   Rec.    F(b=1)    Prec.   Rec.    F(b=1)
+         Disposition  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+       Nodisposition  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+        Undetermined  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+                      ------------------------------------------------
+     Overall (micro)  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+     Overall (macro)  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+
+
+*********************** Context Classification ***********************
+                      ------- strict -------    ------ lenient -------
+                      Prec.   Rec.    F(b=1)    Prec.   Rec.    F(b=1)
+              Action  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+         Temporality  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+           Certainty  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+               Actor  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+            Negation  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+                      ------------------------------------------------
+     Overall (micro)  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+     Overall (macro)  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+
+
+                      ------- strict -------    ------ lenient -------
+                      Prec.   Rec.    F(b=1)    Prec.   Rec.    F(b=1)
+            Combined  0.0000  0.0000  0.0000    0.0000  0.0000  0.0000
+
+
+                                  350 files evaluated               
