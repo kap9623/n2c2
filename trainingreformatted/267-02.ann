@@ -1,0 +1,9 @@
+T1	Drug 1050 1057	insulin
+T2	Drug 1204 1214	Metoprolol
+T3	Drug 1216 1226	lovastatin
+T4	Drug 1228 1239	Macrodantin
+T5	Drug 1241 1247	Motrin
+T7	Drug 1265 1278	nitroglycerin
+T8	Drug 1284 1291	aspirin
+T9	Drug 2334 2341	Aspirin
+T6	Drug 1249 1257;1258 1263	insulin  70/30

@@ -1,0 +1,40 @@
+T1	Drug 149 157	atenolol
+T2	Drug 255 258	NPH
+T3	Drug 333 336	ACE
+T4	Drug 453 460	insulin
+T5	Drug 689 698	pravachol
+T6	Drug 785 791	niacin
+T7	Drug 838 845	lipitor
+T8	Drug 907 916	pravachol
+T9	Drug 970 978	atenolol
+T10	Drug 979 982	ASA
+T11	Drug 1163 1168	Imdur
+T12	Drug 1292 1297	Imdur
+T13	Drug 1430 1435	lasix
+T14	Drug 1691 1694	ASA
+T15	Drug 1711 1718	Aspirin
+T16	Drug 1769 1776	Zestril
+T17	Drug 1784 1794	Penicillin
+T20	Drug 1909 1918	Neurontin
+T21	Drug 1940 1950	Spectazole
+T23	Drug 2022 2030	atenolol
+T24	Drug 2043 2050	aspirin
+T25	Drug 2178 2187	Pravachol
+T26	Drug 2200 2206	Ultram
+T27	Drug 2227 2232	Lasix
+T28	Drug 2246 2252	Nexium
+T29	Drug 2266 2271	Imdur
+T30	Drug 2285 2292	Insulin
+T31	Drug 276 283	regular
+T32	Drug 368 371	ARB
+T33	Drug 548 557	cortisone
+T34	Drug 850 855	zocor
+T35	Drug 1163 1168	Imdur
+T36	Drug 1757 1762	vioxx
+T37	Drug 1981 1984	Ntg
+T38	Drug 2064 2082	potassium chloride
+T39	Drug 1873 1888	regular insulin
+T40	Drug 1831 1842	nph insulin
+T41	Drug 2097 2134	hydrocortisone and bismuth subgallate
+T42	Drug 2136 2145	anusol hc
+T43	Drug 181 184	ARB

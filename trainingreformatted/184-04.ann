@@ -1,0 +1,44 @@
+T1	Drug 954 960	Plavix
+T2	Drug 1196 1199	ASA
+T3	Drug 1219 1225	Plavix
+T4	Drug 1300 1308	Warfarin
+T5	Drug 1741 1744	ASA
+T6	Drug 1759 1769	Folic acid
+T7	Drug 1783 1794	Gemfibrozil
+T8	Drug 1808 1822	Insulin lantus
+T9	Drug 1834 1841	Lipitor
+T10	Drug 1854 1868	Insulin Lispro
+T11	Drug 1879 1889	Nephrocaps
+T12	Drug 1904 1917	Nifedipine ER
+T13	Drug 1953 1961	Protonix
+T14	Drug 2005 2011	Viagra
+T15	Drug 2025 2030	Zetia
+T16	Drug 2045 2054	Toprol XL
+T18	Drug 2096 2110	Cephalosporins
+T19	Drug 4109 4112	ASA
+T20	Drug 4114 4120	Plavix
+T21	Drug 4122 4128	statin
+T22	Drug 4130 4132	BB
+T23	Drug 4163 4167	ACEi
+T24	Drug 4380 4386	Lantus
+T25	Drug 4399 4405	Aspart
+T26	Drug 4465 4475	nifedipine
+T27	Drug 4480 4490	metoprolol
+T28	Drug 4543 4550	lipitor
+T29	Drug 4552 4557	zetia
+T30	Drug 4666 4672	Plavix
+T31	Drug 4675 4683	percocet
+T32	Drug 4690 4702	carisoprodol
+T34	Drug 4846 4854	Coumadin
+T17	Drug 1932 1938	Phoslo
+T35	Drug 1976 1980	Soma
+T36	Drug 2069 2077	Warfarin
+T37	Drug 2087 2094	Codeine
+T38	Drug 2112 2123	Simvastatin
+T39	Drug 4417 4423	Aspart
+T40	Drug 4559 4571	gemofibrozil
+T41	Drug 4733 4741	Coumadin
+T42	Drug 4906 4914	coumadin
+T43	Drug 3738 3750	dipyridamole
+T44	Drug 4315 4321	phoslo
+T45	Drug 4323 4333	nephrocaps

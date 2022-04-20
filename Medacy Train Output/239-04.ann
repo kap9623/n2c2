@@ -1,0 +1,43 @@
+T1	Drug 50 58	Medicine
+T1	Drug 2384 2394	Olanzapine
+T1	Drug 2406 2413	Hepatin
+T1	Drug 2414 2420	Toprol
+T1	Drug 2430 2440	Lisinopril
+T1	Drug 2452 2462	Vancomycin
+T1	Drug 2482 2486	RISS
+T1	Drug 2487 2496	Oxycodone
+T1	Drug 2501 2512	Simvastatin
+T1	Drug 2513 2525	Levofloxacin
+T1	Drug 2526 2536	Fluoxetine
+T1	Drug 2547 2562	Calcium acetate
+T1	Drug 6766 6774	Amikacin
+T1	Drug 6818 6828	Ampicillin
+T1	Drug 6922 6931	Cefazolin
+T1	Drug 6974 6982	Cefepime
+T1	Drug 7026 7037	Ceftriaxone
+T1	Drug 7078 7091	Ciprofloxacin
+T1	Drug 7130 7140	Gentamicin
+T1	Drug 7182 7194	Levofloxacin
+T1	Drug 7234 7246	Piperacillin
+T1	Drug 7266 7298	Resistant           Trimethoprim
+T1	Drug 7299 7315	Sulfamethoxazole
+T1	Drug 7574 7584	Gentamicin
+T1	Drug 7620 7632	Levofloxacin
+T1	Drug 7666 7678	Piperacillin
+T1	Drug 7679 7689	Tazobactam
+T1	Drug 7712 7723	Ticarcillin
+T1	Drug 7758 7768	Tobramycin
+T1	Drug 7982 7990	Amikacin
+T1	Drug 8034 8044	Ampicillin
+T1	Drug 8138 8147	Cefazolin
+T1	Drug 8242 8253	Ceftriaxone
+T1	Drug 8294 8307	Ciprofloxacin
+T1	Drug 8346 8356	Gentamicin
+T1	Drug 8398 8410	Levofloxacin
+T1	Drug 8450 8531	Piperacillin                    Susceptible         Trimethoprim/Sulfamethoxazole
+T1	Drug 9256 9265	toprol XL
+T1	Drug 9983 9993	Fluoxetine
+T1	Drug 10084 10090	Haldol
+T1	Drug 10149 10159	olanzapine
+T1	Drug 10385 10397	Levofloxacin
+T1	Drug 10787 10791	RISS

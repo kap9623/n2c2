@@ -1,0 +1,58 @@
+T2	Drug 1255 1266	Hydralazine
+T3	Drug 1268 1272	HCTZ
+T4	Drug 1274 1284	Lisinopril
+T5	Drug 1290 1299	Labetalol
+T6	Drug 1325 1333	Atenolol
+T7	Drug 1338 1347	Terazosin
+T8	Drug 1418 1426	Atenolol
+T9	Drug 1428 1437	Terazosin
+T10	Drug 1439 1443	HCTZ
+T11	Drug 1449 1459	Lisinopril
+T12	Drug 1998 2001	IVF
+T13	Drug 2003 2005	NS
+T14	Drug 2038 2048	Vancomycin
+T15	Drug 2053 2061	Cefepime
+T16	Drug 2430 2442	Levofloxacin
+T19	Drug 3127 3135	Atenolol
+T22	Drug 3251 3270	Hydrochlorothiazide
+T24	Drug 3358 3368	Lisinopril
+T25	Drug 3387 3396	Memantine
+T26	Drug 3426 3437	Methimazole
+T27	Drug 3454 3472	Miconazole Nitrate
+T28	Drug 3514 3527	Multivitamins
+T29	Drug 3545 3555	Omeprazole
+T31	Drug 3639 3650	Simvastatin
+T32	Drug 3668 3681	Terazosin Hcl
+T33	Drug 3700 3709	Trazodone
+T34	Drug 9914 9922	Cefepime
+T35	Drug 10129 10138	Labetalol
+T36	Drug 10143 10154	Hydralazine
+T37	Drug 10172 10176	ACEi
+T38	Drug 10178 10182	HCTZ
+T39	Drug 10689 10692	IVF
+T40	Drug 10765 10768	IVF
+T42	Drug 10823 10826	PPI
+T43	Drug 1255 1266	Hydralazine
+T44	Drug 1268 1272	HCTZ
+T46	Drug 1290 1299	Labetalol
+T47	Drug 2522 2525	Abx
+T48	Drug 3023 3036	Acetaminophen
+T49	Drug 3038 3045	Tylenol
+T50	Drug 3077 3097	Acetylsalicylic Acid
+T51	Drug 3099 3106	Aspirin
+T52	Drug 3154 3168	Cyanocobalamin
+T53	Drug 3170 3181	Vitamin B12
+T54	Drug 3205 3220	Docusate Sodium
+T55	Drug 3222 3228	Colace
+T56	Drug 3289 3300	Ipratropium
+T57	Drug 3312 3320	Atrovent
+T58	Drug 3398 3405	Namenda
+T59	Drug 3557 3565	Prilosec
+T60	Drug 3586 3605	Polyethylene Glycol
+T61	Drug 3608 3615	Miralax
+T62	Drug 9904 9909	Vanco
+T63	Drug 10240 10249	Terazosin
+T64	Drug 10272 10275	IVF
+T65	Drug 10811 10818	heparin
+T1	Drug 1582 1584	NS
+T17	Drug 1737 1743	fluids

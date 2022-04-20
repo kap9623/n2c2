@@ -1,0 +1,33 @@
+T3	Drug 1377 1384	aspirin
+T4	Drug 1395 1405	fosinopril
+T5	Drug 1430 1437	Isordil
+T6	Drug 1459 1469	lisinopril
+T7	Drug 1480 1489	Lopressor
+T8	Drug 1505 1518	nitroglycerin
+T9	Drug 1520 1527	Norvasc
+T10	Drug 1586 1593	Tylenol
+T14	Drug 5000 5006	statin
+T15	Drug 5177 5187	lisinopril
+T16	Drug 5228 5238	fosinopril
+T17	Drug 5290 5297	Norvasc
+T18	Drug 5322 5335	nitroglycerin
+T19	Drug 5387 5394	Isordil
+T20	Drug 5407 5416	Lopressor
+T21	Drug 5443 5450	aspirin
+T25	Drug 5592 5601	Pravachol
+T26	Drug 5672 5679	Tylenol
+T22	Drug 560 563	TNG
+T30	Drug 1309 1332	tylenol with codeine #3
+T28	Drug 1282 1307	acetaminophen and codeine
+T29	Drug 1343 1353	Alphagan P
+T31	Drug 1407 1417	Glucophage
+T32	Drug 1541 1550	Pravachol
+T33	Drug 1561 1568	Trusopt
+T34	Drug 4037 4040	TNG
+T35	Drug 4339 4342	TNG
+T36	Drug 4649 4659	H2 blocker
+T37	Drug 5142 5152	Glucophage
+T38	Drug 5462 5487	acetaminophen and codeine
+T39	Drug 5489 5512	tylenol with codeine #3
+T40	Drug 5613 5620	Trusopt
+T41	Drug 5638 5648	Alphagan P

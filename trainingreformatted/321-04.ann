@@ -1,0 +1,38 @@
+T3	Drug 1285 1289	vanc
+T4	Drug 1290 1298	cefepime
+T5	Drug 2280 2283	ASA
+T6	Drug 2290 2296	Reglan
+T7	Drug 2303 2313	Amlodipine
+T8	Drug 2320 2327	Lipitor
+T9	Drug 2335 2343	Atenolol
+T10	Drug 2351 2361	Lisinopril
+T11	Drug 2368 2372	HCTZ
+T12	Drug 2379 2385	Folate
+T13	Drug 2391 2398	Insulin
+T16	Drug 8875 8879	vanc
+T17	Drug 8880 8885	zosyn
+T18	Drug 8960 8969	nafcillin
+T19	Drug 9201 9214	beta-blockade
+T21	Drug 9309 9324	regular insulin
+T23	Drug 9446 9454	atenolol
+T24	Drug 9456 9466	lisinopril
+T25	Drug 9468 9474	statin
+T27	Drug 9546 9552	NSAIDs
+T30	Drug 9666 9674	percocet
+T32	Drug 9978 9985	fragmin
+T33	Drug 1300 1306	reglan
+T34	Drug 2426 2431	Lasix
+T35	Drug 2463 2468	lasix
+T36	Drug 2454 2455	K
+T38	Drug 8841 8847	zofran
+T39	Drug 9441 9444	ASA
+T40	Drug 9512 9528	renal toxic meds
+T41	Drug 9556 9566	lisinopril
+T42	Drug 9637 9643	NSAIDs
+T43	Drug 9656 9664	morphine
+T44	Drug 9970 9976	nexium
+T45	Drug 9250 9251	R
+T46	Drug 9265 9266	N
+T47	Drug 9283 9296	d5w 1/2NS + K
+T1	Drug 1487 1496	diuretics
+T2	Drug 9536 9544	contrast

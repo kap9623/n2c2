@@ -1,0 +1,37 @@
+T1	Drug 610 623	amytriptyline
+T2	Drug 700 708	steroids
+T3	Drug 889 898	glyburide
+T4	Drug 1143 1147	ACEi
+T5	Drug 1235 1244	glyburide
+T6	Drug 1844 1847	ASA
+T7	Drug 1849 1851	BB
+T8	Drug 1853 1857	ACEi
+T9	Drug 1859 1865	Statin
+T11	Drug 2813 2826	acetaminophen
+T12	Drug 2852 2861	glipizide
+T13	Drug 2892 2902	lisinopril
+T14	Drug 2932 2945	nitroglycerin
+T15	Drug 3008 3018	metoprolol
+T16	Drug 3050 3062	atorvastatin
+T17	Drug 3180 3187	aspirin
+T18	Drug 3303 3318	sodium chloride
+T19	Drug 3485 3494	glipizide
+T20	Drug 3543 3553	lisinopril
+T21	Drug 3601 3614	nitroglycerin
+T22	Drug 3695 3705	metoprolol
+T23	Drug 3755 3767	atorvastatin
+T24	Drug 3921 3928	aspirin
+T25	Drug 4079 4094	sodium chloride
+T26	Drug 4197 4210	amitriptyline
+T27	Drug 4260 4272	Iron sulfate
+T29	Drug 4377 4383	Colace
+T30	Drug 5318 5320	BB
+T31	Drug 5946 5961	anticoagulation
+T32	Drug 3093 3101	psyllium
+T33	Drug 3221 3229	Muro 128
+T34	Drug 3404 3417	amitriptyline
+T35	Drug 3816 3824	psyllium
+T36	Drug 3980 3988	Muro 128
+T10	Drug 1949 1963	anticoagulated
+T28	Drug 3911 3919	psyllium
+T37	Drug 3145 3153	psyllium

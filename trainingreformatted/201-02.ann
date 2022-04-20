@@ -1,0 +1,48 @@
+T1	Drug 1862 1866	amio
+T2	Drug 1971 1988	calcium gluconate
+T3	Drug 1990 1997	insulin
+T5	Drug 2100 2107	heparin
+T6	Drug 2151 2159	Coumadin
+T7	Drug 2182 2191	toprol XL
+T8	Drug 3662 3669	digoxin
+T10	Drug 3776 3788	Esomeprazole
+T11	Drug 3817 3826	Glipizide
+T12	Drug 3847 3856	Metformin
+T15	Drug 3938 3948	Furosemide
+T16	Drug 3950 3955	Lasix
+T17	Drug 4010 4033	Niacin Extended Release
+T18	Drug 4055 4092	Metoprolol Succinate Extended Release
+T19	Drug 4127 4137	Lisinopril
+T20	Drug 4158 4169	Simvastatin
+T21	Drug 7193 7203	amiodarone
+T22	Drug 7468 7478	amiodarone
+T23	Drug 7637 7646	diltiazem
+T25	Drug 7810 7818	Coumadin
+T26	Drug 7967 7970	ASA
+T27	Drug 7977 7979	BB
+T28	Drug 7980 7984	ACEI
+T29	Drug 8004 8010	statin
+T30	Drug 8012 8018	niacin
+T31	Drug 8203 8208	lasix
+T32	Drug 8256 8261	lasix
+T33	Drug 8398 8407	metofrmin
+T34	Drug 8424 8428	RISS
+T35	Drug 8483 8486	PPI
+T24	Drug 1476 1483	digoxin
+T37	Drug 1476 1483	digoxin
+T38	Drug 2004 2010	bicard
+T39	Drug 2020 2022	Mg
+T40	Drug 2238 2249	admiodarone
+T42	Drug 3724 3744	Acetylsalicylic Acid
+T43	Drug 3746 3753	Aspirin
+T44	Drug 3790 3796	Nexium
+T45	Drug 3878 3897	Omega-3-Fatty Acids
+T47	Drug 3977 4008	Nicotinic Acid Extended Release
+T48	Drug 4094 4103	Toprol Xl
+T49	Drug 7592 7599	digoxin
+T50	Drug 7650 7660	metoprolol
+T51	Drug 8387 8396	glipizide
+T52	Drug 1999 2002	D50
+T53	Drug 8496 8503	heparin
+T46	Drug 3899 3907	Fish Oil
+T4	Drug 7670 7672	NS

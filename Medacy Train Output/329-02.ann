@@ -1,0 +1,48 @@
+T1	Drug 199 207	Keystone
+T1	Drug 1255 1266	Hydralazine
+T1	Drug 1268 1272	HCTZ
+T1	Drug 1274 1284	Lisinopril
+T1	Drug 1290 1299	Labetalol
+T1	Drug 1325 1333	Atenolol
+T1	Drug 1338 1347	Terazosin
+T1	Drug 1418 1426	Atenolol
+T1	Drug 1428 1437	Terazosin
+T1	Drug 1439 1443	HCTZ
+T1	Drug 1449 1459	Lisinopril
+T1	Drug 1998 2001	IVF
+T1	Drug 2003 2005	NS
+T1	Drug 2038 2048	Vancomycin
+T1	Drug 2053 2061	Cefepime
+T1	Drug 2430 2442	Levofloxacin
+T1	Drug 2522 2525	Abx
+T1	Drug 3023 3036	Acetaminophen
+T1	Drug 3038 3045	Tylenol
+T1	Drug 3077 3106	Acetylsalicylic Acid (Aspirin
+T1	Drug 3127 3135	Atenolol
+T1	Drug 3154 3168	Cyanocobalamin
+T1	Drug 3170 3179	Vitamin B
+T1	Drug 3205 3230	Docusate Sodium (Colace )
+T1	Drug 3251 3270	Hydrochlorothiazide
+T1	Drug 3289 3330	Ipratropium Nebulizer (Atrovent Nebulizer
+T1	Drug 3358 3368	Lisinopril
+T1	Drug 3387 3396	Memantine
+T1	Drug 3426 3437	Methimazole
+T1	Drug 3454 3472	Miconazole Nitrate
+T1	Drug 3514 3527	Multivitamins
+T1	Drug 3545 3555	Omeprazole
+T1	Drug 3586 3605	Polyethylene Glycol
+T1	Drug 3608 3615	Miralax
+T1	Drug 3639 3650	Simvastatin
+T1	Drug 3668 3681	Terazosin Hcl
+T1	Drug 3700 3709	Trazodone
+T1	Drug 9902 9909	--Vanco
+T1	Drug 9914 9922	Cefepime
+T1	Drug 10129 10138	Labetalol
+T1	Drug 10143 10154	Hydralazine
+T1	Drug 10172 10176	ACEi
+T1	Drug 10178 10182	HCTZ
+T1	Drug 10272 10275	IVF
+T1	Drug 10689 10692	IVF
+T1	Drug 10765 10768	IVF
+T1	Drug 10809 10818	--heparin
+T1	Drug 10823 10826	PPI

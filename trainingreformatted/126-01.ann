@@ -1,0 +1,44 @@
+T1	Drug 392 399	Insulin
+T2	Drug 618 626	Fentanyl
+T3	Drug 2039 2041	NS
+T4	Drug 2044 2055	Kayexcelate
+T5	Drug 2066 2069	ASA
+T6	Drug 2078 2085	Norvasc
+T7	Drug 2095 2101	Nexium
+T8	Drug 2112 2118	Toprol
+T9	Drug 2130 2139	Lopressor
+T10	Drug 2149 2165	Morphine sulfate
+T12	Drug 2348 2355	Insulin
+T13	Drug 2885 2889	HCTZ
+T14	Drug 2902 2912	Lisinopril
+T15	Drug 2925 2934	Toprol XL
+T16	Drug 2948 2955	Norvasc
+T17	Drug 2968 2977	Neurontin
+T19	Drug 3013 3020	Insulin
+T20	Drug 3050 3057	Insulin
+T21	Drug 8356 8362	opioid
+T22	Drug 8937 8943	NSAIDs
+T23	Drug 9190 9195	Lasix
+T25	Drug 9230 9250	Isosorbide dinitrate
+T26	Drug 9270 9280	Lisinopril
+T27	Drug 9292 9294	O2
+T28	Drug 9418 9424	statin
+T30	Drug 9628 9638	Lisinopril
+T32	Drug 9957 9966	Toprol XL
+T33	Drug 9977 9984	Norvasc
+T34	Drug 9999 10010	Hydralazine
+T35	Drug 10021 10041	Isosorbide dinitrate
+T37	Drug 10121 10127	Opioid
+T39	Drug 10218 10225	insulin
+T41	Drug 10301 10308	Insulin
+T44	Drug 2850 2856	Reglan
+T45	Drug 8922 8932	lisinopril
+T46	Drug 10331 10337	Nexium
+T47	Drug 2991 2999	Protonix
+T48	Drug 9207 9218	Hydralazine
+T49	Drug 9646 9655	Neurontin
+T50	Drug 10159 10167	Morphine
+T51	Drug 10347 10354	Heparin
+T52	Drug 2175 2179	MSO4
+T53	Drug 618 626	Fentanyl
+T43	Drug 618 626	Fentanyl

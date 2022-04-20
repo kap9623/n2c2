@@ -1,0 +1,22 @@
+T1	Drug 465 478	acetaminophen
+T2	Drug 490 503	nitroglycerin
+T3	Drug 1056 1066	lovastatin
+T4	Drug 1380 1389	glyburide
+T5	Drug 1432 1439	aspirin
+T6	Drug 1452 1460	atenolol
+T7	Drug 1474 1484	furosemide
+T8	Drug 1510 1519	glyburide
+T9	Drug 1568 1578	lisinopril
+T10	Drug 1593 1603	lovastatin
+T11	Drug 1648 1661	nitroglycerin
+T12	Drug 2762 2774	beta blocker
+T13	Drug 2788 2802	anti-coagulate
+T14	Drug 3117 3120	ASA
+T15	Drug 3121 3123	BB
+T16	Drug 3124 3128	ACEI
+T17	Drug 3129 3135	statin
+T18	Drug 3178 3187	glyburide
+T19	Drug 3206 3210	ACEI
+T20	Drug 1246 1256	glucophage
+T21	Drug 1632 1645	multivitamins
+T22	Drug 2994 3009	anticoagulation
